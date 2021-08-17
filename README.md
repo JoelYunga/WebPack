@@ -16,12 +16,22 @@ Visual Studio Code
 Node.js® 
 ```
 
-_Librerias que necesitas instalar._
+_Librerias que necesitas instalar:_
 
 ```
-npm 
+npm webpack-dev-server
+npm webpack webpack-cli
+npm html-loader
+npm html-webpack-plugin
+npm babel-loader @babel/core   
+npm css-minimizer-webpack-plugin
+npm terser-webpack-plugin
+npm mini-css-extract-plugin
+npm style-loader
+npm css-loader 
+
 ```
-```
+
 ### Instalación 🔧
 
 _Los programas necesesarios para la realización del software son Visual Studio Code y NodeJS_
